@@ -49,6 +49,12 @@
     --medical-green-light: 160 40% 94%;
     --trust-gold: 45 85% 55%;
     --whatsapp: 142 70% 45%;
+    
+    /* Custom warm palette */
+    --warm-blush: 13 53% 88%;
+    --warm-sand: 30 38% 74%;
+    --warm-terracotta: 10 38% 65%;
+    --warm-sage: 163 11% 53%;
 
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
@@ -97,6 +103,12 @@
     --medical-green-light: 160 30% 18%;
     --trust-gold: 45 80% 50%;
     --whatsapp: 142 65% 50%;
+    
+    /* Custom warm palette - dark mode */
+    --warm-blush: 13 40% 75%;
+    --warm-sand: 30 30% 60%;
+    --warm-terracotta: 10 30% 55%;
+    --warm-sage: 163 15% 45%;
 
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;

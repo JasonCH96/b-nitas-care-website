@@ -69,6 +69,12 @@ export default {
           gold: "hsl(var(--trust-gold))",
         },
         whatsapp: "hsl(var(--whatsapp))",
+        warm: {
+          blush: "hsl(var(--warm-blush))",
+          sand: "hsl(var(--warm-sand))",
+          terracotta: "hsl(var(--warm-terracotta))",
+          sage: "hsl(var(--warm-sage))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
